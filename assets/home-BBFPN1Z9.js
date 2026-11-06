@@ -1,0 +1,1 @@
+import{j as t}from"./hero-interior-mobile-BbXlXEcS.js";import{L as m}from"./landing-Jnai1RiS.js";function s({registrationEnabled:o,architectPortalHref:r}){return t.jsx(m,{registrationEnabled:o,architectPortalHref:r})}export{s as Home};
