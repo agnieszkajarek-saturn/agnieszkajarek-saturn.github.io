@@ -6,4 +6,7 @@ Publikowane są wyłącznie zbudowane pliki interfejsu i lokalne zasoby. Paczka 
 
 Logowanie i rejestracja prowadzą do informacji „Wersja prezentacyjna”. Ten podgląd nie służy do zakładania kont ani obsługi zamówień.
 
+Galeria /podglad-paneli/ zawiera wyłącznie 14 statycznych zrzutów z danymi przykładowymi; nie uruchamia paneli, formularzy ani API.
+
+
 Pliki wygenerowane automatycznie; aktualizuj paczkę po kolejnym buildzie strony publicznej.
